@@ -1,9 +1,9 @@
 {
-  "projectName": "moon",
+  "projectName": "portfolio",
   "coreFileId": "tvIuWlowgVG4gzXjDuVIEw",
   "componentsProjectId": "408714341",
-  "outputFolder": "dist",
+  "outputFolder": "assets",
   "target": "css",
-  "preflight": false,
+  "preflight": true,
   "themes": {}
 }
